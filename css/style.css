@@ -754,6 +754,8 @@ svg {
 }
 
 .form-btn {
+    color: #FFFFFF;
+    border: none;
     min-width: 165px;
     height: 40px;
     display: flex;
